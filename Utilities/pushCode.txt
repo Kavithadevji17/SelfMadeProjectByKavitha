@@ -40,10 +40,7 @@ git pull --> pull all the files from gitHub to local
 
 ********************************************************************************
 
-GitHub URL
-
-https://github.com/Nandagopal2000/nopcommerceApp.git
-
+GIT URL
 
 ***************************************************************************
 
