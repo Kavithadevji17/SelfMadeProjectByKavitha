@@ -1,0 +1,68 @@
+Push the code to Git and GitHub Repository
+
+******************************************************************************
+
+1) Create local git repository for your project
+
+* guide your project to the exact path
+	cd D:\Nandu\PYTHON_PRACTISE\nopCommerceApp
+* git init
+	create an empty git local repository
+
+* git remote add origin https://github.com/Nandagopal2000/nopcommerceApp.git
+	Connect your local git(local repo) with Github(global repo)
+
+* Before doing commit first time we need to execute these below commands
+	git config --global user.name "KavithaDevraj"
+	git config --global user.email "kavithadevrajkavi.kd@gmail.com"
+
+* git status
+	checking status of files(commited or not commited)
+
+* git add -A
+	Add all the files to stagging area
+
+* git commit -m "first commit"
+	Commit the code into git repository(local repo)
+
+* git push -u origin master
+	Push the code from git ---> github repository
+
+2nd round
+****************
+
+git status
+git add -A --> add all the files in to stagging/indexing area
+git commit -m "comment"
+git push -u origin master
+
+git pull --> pull all the files from gitHub to local
+
+********************************************************************************
+
+GitHub URL
+
+https://github.com/Nandagopal2000/nopcommerceApp.git
+
+
+***************************************************************************
+
+Jenkins -- CI Tool (Continious Integration Tool)
+
+download in https://www.jenkins.com/download
+download .war file
+
+How to run jenkins.war file
+
+go to jenkins location in cmd
+
+run command --> java -jar jenkins.war
+
+jenkins project name --> nopcommerce_github_SeleniumPython
+
+
+
+
+
+
+
