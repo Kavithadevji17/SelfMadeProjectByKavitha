@@ -175,3 +175,13 @@
 07/05/23  10:55:36 PM: INFO: ******** Starting Search Customer By Name ************
 07/05/23  10:55:39 PM: INFO: ************** Searching Customer By Name ****************
 07/05/23  10:55:44 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+07/09/23  12:53:37 PM: INFO: ****************** Search Customer By Email **************
+07/09/23  12:53:42 PM: INFO: ************************* Login Successful ****************
+07/09/23  12:53:42 PM: INFO: *************************** Export customer details Test Start *************************
+07/09/23  12:53:44 PM: INFO: ******************** Exporting Customer Excel All ******************
+07/09/23  12:53:44 PM: INFO: ******************* Exporting Customer Excel All *******************
+07/09/23  12:54:24 PM: INFO: ****************** Search Customer By Email **************
+07/09/23  12:54:28 PM: INFO: ************************* Login Successful ****************
+07/09/23  12:54:28 PM: INFO: *************************** Export customer details Test Start *************************
+07/09/23  12:54:29 PM: INFO: ******************** Exporting Customer Excel Selected ******************
+07/09/23  12:54:30 PM: INFO: ******************* Exporting Customer Excel Selected *******************
