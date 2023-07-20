@@ -5,7 +5,7 @@ Push the code to Git and GitHub Repository
 1) Create local git repository for your project
 
 * guide your project to the exact path
-	cd D:\Nandu\PYTHON_PRACTISE\nopCommerceApp
+	C:\Users\Kavitha Devraj\PycharmProjects\nopCommerceApp
 * git init
 	create an empty git local repository
 
